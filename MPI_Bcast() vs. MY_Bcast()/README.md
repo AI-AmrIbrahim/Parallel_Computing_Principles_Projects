@@ -6,7 +6,7 @@ MPI_Scatter(), and MPI_Allgather(), MP_Alltoall() and MPI_Reduce().
 Implement MPI_Bcast() on your supercomputer using MPI_Isend() and MPI_Irecv() and a few
 other supporting (non-data moving) MPI functions. Study the performance of your
 MY_Bcast() vs. MPI_Bcast() provided by MPI by varying the broadcasted data sizes, measured
-in the number of floating-point numbers. For example, if your data size 𝑁 = 2!", 2!#, 2!$ and
+in the number of floating-point numbers. For example, if your data size 𝑁 = $2^{10}$, $2^{12}$, $2^{14}$ and
 𝑃 = 4, 7, 28, 37 processing cores, measure the time needed for each of the 4x4 cases, i.e.,
 create a table to store your timing results.
 # Mini-report
