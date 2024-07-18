@@ -6,7 +6,7 @@ Welcome! This repository contains projects completed for a parallel computing pr
 
 ## Projects
 
-1. Deterministic Output:
+1. [Deterministic Output](Daterministic_Output):
    * This project investigates the concept of deterministic output in parallel programs. It explores how to ensure consistency in the final results despite concurrent execution.
 3. MPI_Bcast() vs. MY_Bcast():
    * This project compares the built-in MPI_Bcast() function with a custom MY_Bcast() implementation. It analyzes performance and potential benefits of the custom function.
