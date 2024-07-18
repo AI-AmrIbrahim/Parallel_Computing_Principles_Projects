@@ -74,7 +74,7 @@ Here we compared the time efficiency of MPI_Bcast() and my own MY_Bcast()
 functions across different number of processors and data sizes. As shown in Table 1
 MPI_Bcast() is more optimized for larger number of processors which explains why MY_Bcast()
 performs better at smaller number of processors. A surprising result is that MPI_Bcast() did
-better than MY_Bcast() for P = 7 and N = 2^12. However, since the difference is very small I do
+better than MY_Bcast() for P = 7 and N = $2^{12}$. However, since the difference is very small I do
 not consider it a significant outlier without further analysis of both the algorithm and the node
 utilized.
 
