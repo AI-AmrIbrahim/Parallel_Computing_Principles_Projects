@@ -1,0 +1,16 @@
+N = 1024, P = 4, MY_Bcast() time = 0.000050, Bcast() time = 0.000097
+N = 4096, P = 4, MY_Bcast() time = 0.000067, Bcast() time = 0.000088
+N = 16384, P = 4, MY_Bcast() time = 0.000043, Bcast() time = 0.001801
+N = 1048576, P = 4, MY_Bcast() time = 0.002706, Bcast() time = 0.006891
+N = 1024, P = 7, MY_Bcast() time = 0.000076, Bcast() time = 0.000098
+N = 4096, P = 7, MY_Bcast() time = 0.000127, Bcast() time = 0.000107
+N = 16384, P = 7, MY_Bcast() time = 0.000071, Bcast() time = 0.001288
+N = 1048576, P = 7, MY_Bcast() time = 0.003870, Bcast() time = 0.008539
+N = 1024, P = 28, MY_Bcast() time = 0.000983, Bcast() time = 0.000161
+N = 4096, P = 28, MY_Bcast() time = 0.000586, Bcast() time = 0.000208
+N = 16384, P = 28, MY_Bcast() time = 0.000839, Bcast() time = 0.000400
+N = 1048576, P = 28, MY_Bcast() time = 0.018223, Bcast() time = 0.006309
+N = 1024, P = 37, MY_Bcast() time = 0.001068, Bcast() time = 0.000268
+N = 4096, P = 37, MY_Bcast() time = 0.000782, Bcast() time = 0.000255
+N = 16384, P = 37, MY_Bcast() time = 0.000992, Bcast() time = 0.000426
+N = 1048576, P = 37, MY_Bcast() time = 0.023838, Bcast() time = 0.007781
