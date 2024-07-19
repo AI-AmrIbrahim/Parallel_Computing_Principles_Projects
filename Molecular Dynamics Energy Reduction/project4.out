@@ -1,0 +1,100 @@
+P = 1
+Fraction = 0.1
+Initial Energy: -6010.79030307
+Iteration 1: Energy = -6010.91783732
+Iteration 2: Energy = -6011.20072041
+Iteration 3: Energy = -6012.00528433
+Iteration 7: Energy = -6012.0702
+Iteration 8: Energy = -6012.20644793
+Iteration 9: Energy = -6012.31777504
+Minimum Energy = -6012.31777504
+Time elapsed: 682.897049189
+
+Fraction = 0.5
+Initial Energy: -6010.79030307
+Iteration 1: Energy = -6012.62592
+Iteration 2: Energy = -6013.36585479
+Minimum Energy = -6013.36585479
+Time elapsed: 686.969769239
+
+Fraction = 0.9
+Initial Energy: -6010.79030307
+Iteration 1: Energy = -6014.39005333
+Minimum Energy = -6014.39005333
+Time elapsed: 687.065406799
+
+P = 4
+Fraction = 0.1
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6011.33157678
+Iteration 2: Energy = -6011.71083872
+Iteration 3: Energy = -6012.08928204
+Iteration 4: Energy = -6012.46976336
+Iteration 5: Energy = -6012.6664686
+Minimum Energy = -6012.6664686
+Time elapsed: 169.902790308
+
+Fraction = 0.5
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6012.77330254
+Iteration 2: Energy = -6013.3171345
+Minimum Energy = -6013.3171345
+Time elapsed: 169.922741652
+
+Fraction = 0.9
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6014.42925736
+Minimum Energy = -6014.42925736
+Time elapsed: 169.917728901
+
+P = 16
+Fraction = 0.1
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6010.83030874
+Iteration 2: Energy = -6011.23282792
+Iteration 3: Energy = -6011.50560363
+Iteration 4: Energy = -6011.68820911
+Iteration 5: Energy = -6011.76451855
+Iteration 6: Energy = -6011.84205178
+Minimum Energy = -6011.84205178
+Time elapsed: 47.1361758709
+
+Fraction = 0.5
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6011.38612463
+Iteration 2: Energy = -6012.35818842
+Iteration 3: Energy = -6012.66891402
+Minimum Energy = -6012.66891402
+Time elapsed: 46.409920454
+
+Fraction = 0.9
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6012.04099322
+Minimum Energy = -6012.04099322
+Time elapsed: 46.4585399628
+
+P = 64
+Fraction = 0.1
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6010.89388875
+Iteration 2: Energy = -6011.23208183
+Iteration 3: Energy = -6011.50777274
+Iteration 4: Energy = -6011.89437252
+Iteration 5: Energy = -6012.06325163
+Iteration 6: Energy = -6012.18309807
+Iteration 7: Energy = -6012.37250236
+Minimum Energy = -6012.37250236
+Time elapsed: 13.7131843567
+
+Fraction = 0.5
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6011.10108915
+Iteration 2: Energy = -6012.03550331
+Minimum Energy = -6012.03550331
+Time elapsed: 12.9807114601
+
+Fraction = 0.9
+Initial Energy: -6010.79030306
+Iteration 1: Energy = -6011.63768983
+Minimum Energy = -6011.63768983
+Time elapsed: 12.9994375706
