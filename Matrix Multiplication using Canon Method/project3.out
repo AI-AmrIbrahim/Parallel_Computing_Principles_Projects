@@ -1,0 +1,12 @@
+N = 256, P = 1, Cannon time elapsed = 0.008739
+N = 1024, P = 1, Cannon time elapsed = 0.295021
+N = 4096, P = 1, Cannon time elapsed = 13.360781
+N = 256, P = 4, Cannon time elapsed = 0.005519
+N = 1024, P = 4, Cannon time elapsed = 0.084065
+N = 4096, P = 4, Cannon time elapsed = 4.255324
+N = 256, P = 16, Cannon time elapsed = 0.023005
+N = 1024, P = 16, Cannon time elapsed = 0.035997
+N = 4096, P = 16, Cannon time elapsed = 1.209329
+N = 256, P = 64, Cannon time elapsed = 0.156375
+N = 1024, P = 64, Cannon time elapsed = 0.017732
+N = 4096, P = 64, Cannon time elapsed = 0.528340
