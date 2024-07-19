@@ -4,14 +4,14 @@ method, and the BMR method) for multiplying a pair of large square matrices
 𝐴 ∈ $𝑅^{N×N}$ and 𝐵 ∈ $𝑅^{N×N}$ where $𝐴_{ij}$, $𝐵_{ij}$ ~ 𝑈(−1.0, 1.0)
 on a parallel computer with 𝑃 cores and any interconnection networks available to you.
 Please do:
-(1) Describe the algorithm for multiplying the pair of matrices.
-(2) Implement your algorithm.
-(3) Test the performances of your algorithm with cores 𝑃 = $2^{2}$, $2^{4}$, $2^{6}$ for 𝑁 =
+1. Describe the algorithm for multiplying the pair of matrices.
+2. Implement your algorithm.
+3. Test the performances of your algorithm with cores 𝑃 = $2^{2}$, $2^{4}$, $2^{6}$ for 𝑁 =
 $2^{10}$, $2^{20}$, $2^{30}$ (as big as you can fit in your machine).
-(4) Collect your performance results for the above 9 experiments, i.e., for each 𝑃 value,
+4. Collect your performance results for the above 9 experiments, i.e., for each 𝑃 value,
 you perform timing experiments for thee 𝑁 values.
-(5) Plot the speedup curves.
-(6) Comment on your performance results.
+5. Plot the speedup curves.
+6. Comment on your performance results.
 # Mini-report
 ## Problem Description
 This project the task was to implement Matrix-Matrix multiplication algorithm using
