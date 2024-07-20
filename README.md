@@ -1,4 +1,4 @@
-# Parallel Computing Principles Class Projects
+# Parallel Computing Principles Projects
 
 ## Introduction
 
